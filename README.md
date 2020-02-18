@@ -16,8 +16,8 @@ Omnistack 10 - DevRadar
 ## Features
 Utilização de API do Github e artifícios de localização com a utilização de:
 
-- ⚛️ **React Js** — Livraria JavaScript para construção de interfaces
-- ⚛️ **React Native** — Livraria que provê uma maneira eficiente de criar aplicações nativas para Android e iOS
+- ⚛️ **React Js** — Lib JavaScript para construção de interfaces
+- ⚛️ **React Native** — Framework mobile que provê uma maneira eficiente de criar aplicações nativas para Android e iOS
 - 💹 **Node Js** — Web framework que permite utilizar javascript tanto no frontend quanto no backend
 
 
