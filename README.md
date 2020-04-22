@@ -18,7 +18,7 @@ Utilização de API do Github e artifícios de localização com a utilização 
 
 - ⚛️ **React Js** — Lib JavaScript para construção de interfaces
 - ⚛️ **React Native** — Framework mobile que provê uma maneira eficiente de criar aplicações nativas para Android e iOS
-- 💹 **Node Js** — Web framework que permite utilizar javascript tanto no frontend quanto no backend
+- 💹 **Node Js** — Web framework que permite com a ajuda do Express a construir uma api rest
 
 
 ## Getting started
